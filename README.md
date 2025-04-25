@@ -8,7 +8,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Prerequisites</h2>
 
 - [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
-  (Reference this project for help creating Virtual Manchines if needed.)
 
 - [osTicket: Prerequisites and Installation](https://github.com/joshuaheck1/osticket-prereqs)
 
@@ -17,6 +16,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
