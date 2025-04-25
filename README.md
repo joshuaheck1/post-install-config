@@ -5,12 +5,13 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-<h2>Prerequisite</h2>
+<h2>Prerequisites</h2>
 
 - [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
   (Reference this project for help creating Virtual Manchines if needed.)
 
-
+- [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
+  (Reference this project for help creating Virtual Manchines if needed.)
 
 <h2>Environments and Technologies Used</h2>
 
