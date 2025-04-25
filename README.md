@@ -10,8 +10,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
   (Reference this project for help creating Virtual Manchines if needed.)
 
-- [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
-  (Reference this project for help creating Virtual Manchines if needed.)
+- [osTicket: Prerequisites and Installation](https://github.com/joshuaheck1/osticket-prereqs)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,11 +24,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Section 1: Intro to URLs and Agent Panel vs Admin Panel
+- Section 2: [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
+- Section 3: [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
+- Section 4: [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html)
+- Section 5: [Agents ](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)& [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
+- Section 6: [Service Level Agreements (SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
+- Section 7: [Help Topics](https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html)
 
 <h2>Configuration Steps</h2>
 
