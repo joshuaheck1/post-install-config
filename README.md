@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Section 3: [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
 - Section 4: [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html)
 - Section 5: [Agents ](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)& [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
-- Section 6: [Service Level Agreements (SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
+- Section 6: [Service Level Agreement (SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 - Section 7: [Help Topics](https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html)
 
 <h2>Configuration Steps</h2>
@@ -113,6 +113,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>- You can learn more about Roles within osTicket by clicking the link in the Post-Install Configuration Objectives above.<p/>
 <p>- Next, we'll add a new Department.</p>
 
+<h3>Section 3: Departments</h3>
+
 <table>
   <tr>
     <td>
@@ -136,6 +138,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>- You can learn more about Departments within osTicket by clicking the link in the Post-Install Configuration Objectives above. </p>
 <br />
 
+<h3>Section 4: Teams</h3>
+
 <table>
   <tr>
     <td>
@@ -149,7 +153,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>- Now, we'll add a new Team. Within Admin Panel, click Agents -> Teams -> + Add New Team.</p>
 <p>- Name the Team "Online Banking". </p>
 <p>- We'll will add members when we add Agents later. Click Create Team.</p>
-<p>- You can learn more about Departments within osTicket by clicking the link in the Post-Install Configuration Objectives above.</p>
+<p>- You can learn more about Teams within osTicket by clicking the link in the Post-Install Configuration Objectives above.</p>
 
 <p>
 <img width="750" alt="PI16" src="https://github.com/user-attachments/assets/6ae0c661-15b2-42ac-8cad-621ad6df1585" />
@@ -160,6 +164,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>- From Admin Panel, click Agents -> Settings -> Users. </p>
 <p>- Under Authentication Settings, uncheck the box next to "Require registration and login to create tickets". Click Save Changes.</p>
 <br />
+
+<h3>Section 5: Agents and Users</h3>
 
 <table>
   <tr>
@@ -199,17 +205,101 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>- Under Access -> Primary Department, select SysAdmins. For Role/Permissions, select Supreme Admin. </p>
 <p>- Under Teams, select Online Banking and click Create.  </p>
 
-
-
-
-
-
-
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="PI21" src="https://github.com/user-attachments/assets/284f42e3-85c1-42b0-849b-5b56e872d03b" />
+    </td>
+    <td>
+      <img width="1000" alt="PI22" src="https://github.com/user-attachments/assets/23f573c1-0166-4469-beb2-9fac9de404ca" />
+    </td>
+  </tr>
+</table>
+<p>- Add another Agent by clicking + Add New Agent.</p>
+<p>- Under Account, name the Agent "John Doe". Enter a fake email.  </p>
+<p>- Username: john_doe </p>
+<p>- Click Set Password. </p>
+<br/>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="PI24" src="https://github.com/user-attachments/assets/94f4d00e-dbc4-4570-b7a9-c0542c1f9461" />
 </p>
+
+<p>- As before, when you click Set Password a pop-up will appear.</p>
+<p>- Uncheck the box next to "Send the agent a password reset email" and you'll see Figure 19. </p>
+<p>- Set password to "Password1". Uncheck "Require password change at next login". Click Update. </p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="PI23" src="https://github.com/user-attachments/assets/36b38331-2e76-44f5-94ad-42d49677d971" />
+    </td>
+    <td>
+      <img width="1000" alt="PI25" src="https://github.com/user-attachments/assets/29814cd4-93f5-4fbe-b3b2-487095432d5b" />
+    </td>
+  </tr>
+</table>
+<p>- Under Access -> Primary Department -> select Support. For Role/Permissions, select Expanded Access. Click Create.</p>
+<p>- Our Agents have been added. We'll work tickets with both in the next project. </p>
+<p>- I know Figure 24 shows "View Only" for John Doe's Role, but that created some issues while trying to work tickets. I had to go back and change it while I was working on the project we'll do next. Changing it to Expanded Access seemed to fix the issue.😉  </p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="PI26" src="https://github.com/user-attachments/assets/b680df79-e884-44f9-a47d-c3fce3a584e4" />
+    </td>
+    <td>
+      <img width="1000" alt="PI27" src="https://github.com/user-attachments/assets/4d6f7fe4-67f1-4c82-bec7-9ccd75952be8" />
+    </td>
+  </tr>
+</table>
+<p>- Now, we need to add a User. Click Agent Panel at the top-right of the screen.</p>
+<p>- From Agent Panel, click Users -> + Add User.  </p>
+<p>- Enter email address: karen@lonpacific.com (Fake Email).</p>
+<p>- Name the User "Karen" and click Add User. </p>
+<br/>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="750" alt="PI28" src="https://github.com/user-attachments/assets/c98344cd-3bd6-4ff3-a461-85e2b2955beb" />
 </p>
-<br />
+
+<p>- Karen has been added as a User.</p>
+<p>- We'll have Karen creating tickets for our Agents in the next project. </p>
+<p>- Set password to "Password1". Uncheck "Require password change at next login". Click Update. </p>
+<p>- You can learn more about Agents and Users within osTicket by clicking the link in the Post-Install Configuration Objectives above.<p/>
+<p>- Click Agent Panel and start the next Section.</p>
+<br/>
+
+<h3>Section 6: Service Level Agreement (SLA)</h3>
+
+<p>
+<img width="750" alt="PI29" src="https://github.com/user-attachments/assets/a7b03923-b42d-4cc0-bcbb-b07a5c0a23e4" />
+</p>
+
+<p>- The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.</p>
+<p>- From Agent Panel, click Manage -> SLA -> + Add New SLA Plan.</p>
+
+<br/>
+
+
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="PI26" src="https://github.com/user-attachments/assets/b680df79-e884-44f9-a47d-c3fce3a584e4" />
+    </td>
+    <td>
+      <img width="1000" alt="PI27" src="https://github.com/user-attachments/assets/4d6f7fe4-67f1-4c82-bec7-9ccd75952be8" />
+    </td>
+  </tr>
+</table>
+<p>- Now, we need to add a User. Click Agent Panel at the top-right of the screen.</p>
+<p>- From Agent Panel, click Users -> + Add User.  </p>
+<p>- Enter email address: karen@lonpacific.com (Fake Email).</p>
+<p>- Name the User "Karen" and click Add User. </p>
+<br/>
