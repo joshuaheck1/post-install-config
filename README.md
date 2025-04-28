@@ -43,7 +43,7 @@ This tutorial outlines the post-install configuration of the open-source help de
       <img width="1000" alt="PI1" src="https://github.com/user-attachments/assets/faa074b0-ce78-4160-a5fa-884b85f5839d" />
     </td>
     <td>
-      <img width="1000" alt="PI2" src="https://github.com/user-attachments/assets/cf2543c2-9760-4806-920b-83b24e39a760" />
+      <img width="950" alt="PI2" src="https://github.com/user-attachments/assets/cf2543c2-9760-4806-920b-83b24e39a760" />
     </td>
   </tr>
 </table>
@@ -67,6 +67,61 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>- As an Admin, you can switch panels by clicking the panel name in the top right of the screen. We will be jumping between the two a lot during this project. Now, top off your coffee or grab another energy drink and lets get started. </p>
 
 <h3>Section 2: Roles</h3>
+
+<table>
+  <tr>
+    <td>
+      <img width="996" alt="PI5" src="https://github.com/user-attachments/assets/e5cc5c49-2a22-4ace-b708-d34fe0df6a5d" />
+    </td>
+    <td>
+      <img width="1000" alt="PI6" src="https://github.com/user-attachments/assets/d8ba554f-ddfc-4985-a821-3738fe940dc1" />
+    </td>
+  </tr>
+</table>
+<p>- Configure a new role within the Admin Panel. (Remember, "Agent Panel" will display in the top-right of your screen while in the Admin Panel.)</p> 
+<p>- Within Admin Panel, click Agents -> Roles -> + Add New Role.</p> 
+<p>- Name the new role "Supreme Admin" and click the Permissions tab.</p>
+<br/>
+
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="PI7" src="https://github.com/user-attachments/assets/f5632967-ea12-44dd-8b93-26e3f682105f" />
+    </td>
+    <td>
+      <img width="1000" alt="PI8" src="https://github.com/user-attachments/assets/02641de8-60f1-427e-b676-d0a21da0d1d0" />
+    </td>
+  </tr>
+</table>
+<p>- We want the Supreme Admin Role to have all the permissions for the sake of this project.</p>
+<p>- Under Tickets, check all the boxes and click Tasks.</p>
+<p>- Under Tasks, check all the boxes again and click Knowledgebase.</p>
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="PI9" src="https://github.com/user-attachments/assets/e87e2ef8-c613-4a98-925c-81b0edb954e3" />
+    </td>
+    <td>
+      <img width="1000" alt="PI10" src="https://github.com/user-attachments/assets/1a731001-c945-4a61-b859-1d7377126507" />
+    </td>
+  </tr>
+</table>
+<p>- Under Knowledgebase, check all of the one box and click Add Role.</p>
+<p>- The Supreme Admin Role was successfully added.</p> 
+<p>- You can learn more about Roles within osTicket by clicking the link in the Post-Install Configuration Objectives above.<p/>
+<p>- Next, we'll add a new Department.</p>
+
+
+
+
+
+
+
+
+
+
 
 
 
