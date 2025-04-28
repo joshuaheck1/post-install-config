@@ -113,6 +113,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>- You can learn more about Roles within osTicket by clicking the link in the Post-Install Configuration Objectives above.<p/>
 <p>- Next, we'll add a new Department.</p>
 
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="PI11" src="https://github.com/user-attachments/assets/772d618b-3fad-48bf-940a-e3f982b49607" />
+    </td>
+    <td>
+      <img width="1000" alt="PI12" src="https://github.com/user-attachments/assets/65a769eb-fa93-4e87-b451-313259b93378" />
+    </td>
+  </tr>
+</table>
+<p>- Within Admin Panel, click Agents -> Departments -> + Add New Department.</p>
+<p>- Under Settings, leave Parent as "Top-Level Department" and name the department "SysAdmins".</p>
+<p>- This is all we'll do here for now. Ignore the Access tab for now because we still need to create some Agents. Scroll down and click Create.</p>
 
 
 
