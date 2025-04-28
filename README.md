@@ -373,10 +373,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>- You can learn more about Help Topics within osTicket by clicking the link in the Post-Install Configuration Objectives above.<p/>
 <br/>
 
-<h2>Summary</h2>
+<h2>Conclusion</h2>
 
-<p>
-This concludes our project. We have successfully completed the post-install configurations for osTicket. We will put our settings to the test in the next lab when we create and work tickets as a User, Agent, and Admin. Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
+<p>This concludes our project. We have successfully completed the post-install configurations for osTicket. We will put our settings to the test in the next lab when we create and work tickets as a User, Agent, and Admin. Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
 </p>
 <br />
 
