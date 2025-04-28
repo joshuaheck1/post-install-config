@@ -20,8 +20,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- MacOS
-- Windows 10</b> (21H2)
+- macOS Sequoia
+- Windows 10 (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
