@@ -151,6 +151,53 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>- We'll will add members when we add Agents later. Click Create Team.</p>
 <p>- You can learn more about Departments within osTicket by clicking the link in the Post-Install Configuration Objectives above.</p>
 
+<p>
+<img width="750" alt="PI16" src="https://github.com/user-attachments/assets/6ae0c661-15b2-42ac-8cad-621ad6df1585" />
+
+</p>
+
+<p>- Next, we'll change a setting that will allow somone to create a ticket without having to register an account. The end user will be able to create thier own ticket. </p>
+<p>- From Admin Panel, click Agents -> Settings -> Users. </p>
+<p>- Under Authentication Settings, uncheck the box next to "Require registration and login to create tickets". Click Save Changes.</p>
+<br />
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="PI17" src="https://github.com/user-attachments/assets/8ee3d34d-625e-464d-86b3-221df3da96de" />
+    </td>
+    <td>
+      <img width="1000" alt="PI18" src="https://github.com/user-attachments/assets/d69937e8-a664-49d4-843e-fa82dd1c710e" />
+    </td>
+  </tr>
+</table>
+<p>- Time to add some Agents. From Admin Panel, click -> Agents -> Agents -> + Add New Agent. </p>
+<p>- Under Account, name the Agent "Jane Doe". Enter a fake email (Doesn't matter but I stuck with the Help Desk company theme).  </p>
+<p>- Username: jane_doe </p>
+<p>- Click Set Password. </p>
+
+<p>
+<img width="750" alt="PI24" src="https://github.com/user-attachments/assets/94f4d00e-dbc4-4570-b7a9-c0542c1f9461" />
+
+</p>
+
+<p>- When you click Set Password a pop-up will appear. Uncheck the box next to "Send the agent a password reset email" and you'll see Figure 19. </p>
+<p>- Set password to "Password1". Uncheck "Require password change at next login". Click Update. </p>
+<p>- You will need to do this when we create the next Agent (John) as well.  </p>
+
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="PI19" src="https://github.com/user-attachments/assets/45b36bfc-d0ec-4683-96f2-8dfb095483f1" />
+    </td>
+    <td>
+      <img width="1000" alt="PI20" src="https://github.com/user-attachments/assets/290cb12c-0d0a-49d2-8b35-c13d9a3a98d2" />
+    </td>
+  </tr>
+</table>
+<p>- Under Access -> Primary Department, select SysAdmins. For Role/Permissions, select Supreme Admin. </p>
+<p>- Under Teams, select Online Banking and click Create.  </p>
 
 
 
