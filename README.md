@@ -375,7 +375,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Summary</h2>
 
 <p>
-This concludes our project. We successfully installed osTicket on our Windows virtual machine! Most companies use some form of a ticketing system in their every day operations. This project gave me the opportunity to experince a sample of what all is required to simply load a web page you might use at work. We'll dive into osTicket and do some post-install configurations in the next project. Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
+This concludes our project. We have successfully completed the post-install configurations for osTicket. We will put our settings to the test in the next lab as we create and work tickets. Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
 </p>
 <br />
 
