@@ -127,12 +127,29 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>- Under Settings, leave Parent as "Top-Level Department" and name the department "SysAdmins".</p>
 <p>- This is all we'll do here for now. Ignore the Access tab for now because we still need to create some Agents. Scroll down and click Create.</p>
 
+<p>
+<img width="950" alt="PI13" src="https://github.com/user-attachments/assets/f46cdfbf-b156-4c04-9db0-ad821f1dc962" />
 
+</p>
 
+<p>- The SysAdmins Department has been successfully added. </p>
+<p>- You can learn more about Departments within osTicket by clicking the link in the Post-Install Configuration Objectives above. </p>
+<br />
 
-
-
-
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="PI14" src="https://github.com/user-attachments/assets/8f5c3b1e-281a-464b-8d0b-3c01dba6aea1" />
+    </td>
+    <td>
+      <img width="1000" alt="PI15" src="https://github.com/user-attachments/assets/928db42c-ffd0-4013-9b4b-c0dc0465d0c3" />
+    </td>
+  </tr>
+</table>
+<p>- Now, we'll add a new Team. Within Admin Panel, click Agents -> Teams -> + Add New Team.</p>
+<p>- Name the Team "Online Banking". </p>
+<p>- We'll will add members when we add Agents later. Click Create Team.</p>
+<p>- You can learn more about Departments within osTicket by clicking the link in the Post-Install Configuration Objectives above.</p>
 
 
 
