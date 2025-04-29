@@ -50,7 +50,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </table>
 <p>- osTicket has two main URLs that we will use during this project and the next one.</p>
 <p>- http://localhost/osTicket/scp - Your Staff Control Panel. This is used by Admins and the Help Desk Agents. See Figure 1</p>
+<p>- Bookmark this page in the VM's browser. (Name the bookmark somehting that helps you. Ex: "osTicket Agent Portal")
 <p>- http://localhost/osTicket.com - Your osTicket URL. This is for end users to create tickets and check ticket status. See Figure 2</p>
+<p>- Bookmark this page in the VM's browser. (Name the bookmark something that helps you. Ex: "osTicket Support Center Portal")</p>
 
 <table>
   <tr>
